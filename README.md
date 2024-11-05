@@ -10,12 +10,14 @@ Scripts are written for Python 3.6+.  Clone the git repository and install the r
 git clone https://github.com/msxsec1337/DorkSM
 cd DorkSM
 pip install -r requirements.txt
+```
 
-### Using DorkSM.py as a script
+## Using DorkSM.py as a script
 
 ```bash
 python DorkSM.py
 ```
+
 
 ## Contact
 
